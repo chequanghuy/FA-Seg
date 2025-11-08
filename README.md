@@ -77,9 +77,6 @@ Step 2: Run the evaluation script to compute the mIoU score based on the generat
 python evaluation/eval_{voc/coco/context}.py
 ```
 
-## License
-This project is licensed under <a rel="license" href="https://github.com/mc-lan/SmooSeg/blob/master/LICENSE">NTU S-Lab License 1.0</a>. Redistribution and use should follow this license.
-
 ## Acknowledgement
 This work would not have been possible without the valuable contributions of the following authors.
 
