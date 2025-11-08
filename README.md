@@ -5,7 +5,7 @@ By [Huy Che](https://scholar.google.com/citations?user=k7lUdFAAAAAJ&hl), [Vinh-T
 ## New Paper🎉
 We are pleased to announce that our paper has been published in the journal Neurocomputing (Elsevier). Check it out [here](https://doi.org/10.1016/j.neucom.2025.131844).
 
-## Citing DiffSegmenter
+## Citing FA-Seg
 If you find DiffSegmenter useful in your research, please consider citing:
 ```bibtex
 @article{CHE2026131844,
