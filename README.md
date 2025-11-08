@@ -39,8 +39,12 @@ If you find DiffSegmenter useful in your research, please consider citing:
 
 Please follow the [MMSeg data preparation document](https://github.com/open-mmlab/mmsegmentation/blob/main/docs/en/user_guides/2_dataset_prepare.md) to download datasets. Alternatively, you can directly [download the pre-processed data](https://drive.google.com/file/d/1TRo_4cvGp0l0IRb88LBCPg_mN5xUJ7MR/view?usp=sharing) provided by us.
 
-```
+```bash
 gdown 1TRo_4cvGp0l0IRb88LBCPg_mN5xUJ7MR
+```
+
+```
+
 └── dataset
     ├── coco_stuff164k
     │   ├── images
