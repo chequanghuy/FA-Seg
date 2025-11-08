@@ -9,8 +9,6 @@ from tqdm import tqdm
 import argparse
 import json
 import os
-import os.path as osp
-from compel import Compel
 
 from diffusers.utils.torch_utils import randn_tensor
 from diffusers.image_processor import PipelineImageInput, VaeImageProcessor
@@ -18,9 +16,6 @@ from diffusers.image_processor import PipelineImageInput, VaeImageProcessor
 import numpy as np
 import torch
 import torch.nn.functional as F
-from PIL import Image
-import shutil
-from torch.optim.adam import Adam
 from PIL import Image
 
 from ptp_utils import init_latent, register_attention_control, AttentionStoreClassPrompts, StoredAttnClassPromptsProcessor, aggregate_attention
