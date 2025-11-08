@@ -65,16 +65,14 @@ gdown 1TRo_4cvGp0l0IRb88LBCPg_mN5xUJ7MR
 #### Evaluation
 
 
-Step 1: Tạo segmentation masks 
+Step 1: Generate segmentation masks for the dataset.
+
+```
+python main_{voc/coco/context}.py
+```
 
 Step 2: Run ptp_stable_voc10.py to generate segmentation results.
 
 ```
-python ptp_stable_voc10.py
-```
-
-Step 3: Run the evaluation script, remember to update the file path. MIoU will be recorded in eval.txt
-
-```
-python evaluation_voc10.py
+python evaluation/eval_{voc/coco/context}.py
 ```
