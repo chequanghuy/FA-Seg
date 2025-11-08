@@ -3,7 +3,7 @@
 By [Huy Che](https://scholar.google.com/citations?user=k7lUdFAAAAAJ&hl), [Vinh-Tiep Nguyen](https://scholar.google.com/citations?user=DulHk_YAAAAJ&hl).
 
 ## New Paper🎉
-We are pleased to announce that our paper has been published in the journal Neurocomputing (Elsevier). Check it out [here](https://doi.org/10.1016/j.neucom.2025.131844).
+We are pleased to announce that our paper has been published in the journal Neurocomputing (Elsevier). You can check it out on [Elsevier](https://doi.org/10.1016/j.neucom.2025.131844) or on [arxiv](https://arxiv.org/abs/2506.23323).
 
 ## Citing FA-Seg
 If you find DiffSegmenter useful in your research, please consider citing:
