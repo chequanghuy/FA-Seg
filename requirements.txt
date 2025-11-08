@@ -1,0 +1,10 @@
+numpy==1.21.2
+Pillow==8.4.0
+opencv-python==4.9.0.80
+torch==1.10.0
+torchvision==0.11.0
+transformers==4.30.2
+diffusers==0.21.4
+gdown==4.7.3
+tqdm==4.65.2
+sentence-transformers==2.2.2
