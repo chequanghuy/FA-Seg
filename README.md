@@ -2,6 +2,10 @@
 
 By [Huy Che](https://scholar.google.com/citations?user=k7lUdFAAAAAJ&hl), [Vinh-Tiep Nguyen](https://scholar.google.com/citations?user=DulHk_YAAAAJ&hl).
 
+
+<img width="862" height="257" alt="Screenshot 2026-06-15 at 15 46 47" src="https://github.com/user-attachments/assets/422599e5-bb16-4855-8392-fc6b68f8bbd7" />
+
+
 ## Paper
 We are pleased to announce that our paper has been published in the journal Neurocomputing (Elsevier). You can check it out on [Elsevier](https://doi.org/10.1016/j.neucom.2025.131844) or on [arxiv](https://arxiv.org/abs/2506.23323).
 
